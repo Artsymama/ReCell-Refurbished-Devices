@@ -24,5 +24,6 @@ Tasks Performed
 Business Insights
 •	The most significant predictors of the used device price are the price of a new device of the same model, the size of the devices screen, the resolution of the rear and front cameras, the number of days it was used, the amount of RAM, and the availability of 4G and 5G network.
 •	A unit increase in new model price will result in a 0.09% increase in the used device price.
+
 •	A unit increase in size of the device's screen will result in a 5.76% increase in the used device price.
 •	A unit increase in the amount of RAM will result in a 3.69% increase in the used device price
