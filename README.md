@@ -6,3 +6,23 @@ Used and refurbished devices can be sold with warranties and can also be insured
 Maximizing the longevity of devices through second-hand trade also reduces their environmental impact and helps in recycling and reducing waste. The impact of the COVID-19 outbreak may further boost this segment as consumers cut back on discretionary spending and buy phones and tablets only for immediate needs.
 The rising potential of this comparatively under-the-radar market fuels the need for an ML-based solution to develop a dynamic pricing strategy for used and refurbished devices. ReCell, a startup aiming to tap the potential in this market.
 As a data scientist I have been hired to analyze the data provided and build a linear regression model to predict the price of a used phone/tablet and identify factors that significantly influence it.
+
+Tools used
+•	Python: statsmodel, sklearn, sklearn.metrics, pycountry-convert
+•	Linear regression using training data and test data
+•	Result interpretation: Adjust R-squared, Const coefficient, Coefficient of predictor variable, Root mean square deviation (RMSE), Mean absolute error (MAE), Mean absolute percentage error (MAPE)
+
+Project Coverage
+•	Develop a dynamic pricing strategy for used and refurbished phones
+Tasks Performed
+•	Making statistical inference from the data
+•	Build supervised learning model using Linear Regression
+•	Determine price segments based on the price of a new model of the used device being sold
+•	Visual analytics using labeled bar plot to determine if features in a phone affect the used device price
+•	Data pre-processing: Feature engineering, heat map
+
+Business Insights
+•	The most significant predictors of the used device price are the price of a new device of the same model, the size of the devices screen, the resolution of the rear and front cameras, the number of days it was used, the amount of RAM, and the availability of 4G and 5G network.
+•	A unit increase in new model price will result in a 0.09% increase in the used device price.
+•	A unit increase in size of the device's screen will result in a 5.76% increase in the used device price.
+•	A unit increase in the amount of RAM will result in a 3.69% increase in the used device price
