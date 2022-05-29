@@ -17,8 +17,11 @@ Project Coverage
 Tasks Performed
 •	Making statistical inference from the data
 •	Build supervised learning model using Linear Regression
+•	Built linear regression model using statsmodel testing for R-squared and Adjusted R squared to determine the factor(s) leading to price variation
 •	Determine price segments based on the price of a new model of the used device being sold
 •	Visual analytics using labeled bar plot to determine if features in a phone affect the used device price
+•	Check model performance on actual prices and use metric function RMSE,  MAE and MAPE to check overfitting, mean error and large prediction errors
+•	Check linear regression assumptions No Multicollinearity, Linearity of variables, Independence of error terms, Normality of error terms, No Heteroscedasticity
 •	Data pre-processing: Feature engineering, heat map
 
 Business Insights
